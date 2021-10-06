@@ -1,0 +1,4 @@
+- Paris
+- Singapore
+- Dubai
+- United Kingdom
